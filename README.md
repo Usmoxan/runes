@@ -1,4 +1,4 @@
-#Dartda Rune
+# Dart tilida Rune
 <b>Dart tilida satrlar shunchaki UTF-16 (16-bit Unicode Transformation Format) kod birliklari ketma-ketligidir. Unicode formati har bir raqam, harf yoki belgini ifodalash uchun noyob raqamli belgini xaritaga kiritadi.
 
 Rune har qanday Unicode kod nuqtasini ifodalash uchun ishlatiladigan butun son sifatida aniqlanishi mumkin. Dart qatori UTF-16 kod birliklarining oddiy ketma-ketligi bo'lgani uchun satrdagi 32 bitli Unicode qiymatlari maxsus sintaksis yordamida ifodalanadi. Dart: yadro kutubxonasidagi String klassi runlarga kirish usullarini beradi. Runesga quyidagi yo'llar bilan kirish mumkin:
